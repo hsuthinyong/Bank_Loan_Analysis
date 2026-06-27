@@ -21,7 +21,7 @@ The analysis was built end-to-end: starting with SQL Server to validate all KPIs
 2. Overview
 - Trend analysis across 6 dimensions: month, U.S. state, loan term, employment length, purpose, and home ownership.
   <img width="765" height="429" alt="overview" src="https://github.com/user-attachments/assets/f5aa167d-e165-4627-b344-569330cd6c26" />
- 
+
 3. Details
 - Granular borrower-level table for drill-down analysis
 <img width="765" height="430" alt="details" src="https://github.com/user-attachments/assets/800a8ccc-4083-41b0-915a-5ab511760933" />
