@@ -14,7 +14,8 @@ The analysis was built end-to-end: starting with SQL Server to validate all KPIs
 
 ## Dashboard Pages
 1. Summary
-- High-level KPIs with MTD MoM comparisons: total applications, funded amount, amount received, average interest rate,  average DTI; Good Loan vs Bad Loan breakdown
+- High-level KPIs (MTD + MoM): total applications, funded amount, amount received, average interest rate, and average DTI.
+- Good vs Bad Loan analysis showing application share, funding, and repayment performance.
   <img width="764" height="430" alt="summary" src="https://github.com/user-attachments/assets/0256003b-ee39-4128-ac43-a037f3e2c13a" />
 
 2. Overview
