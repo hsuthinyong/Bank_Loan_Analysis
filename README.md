@@ -14,15 +14,15 @@ The analysis was built end-to-end: starting with SQL Server to validate all KPIs
 
 ## Dashboard Pages
 1. Summary
-High-level KPIs with MTD MoM comparisons: total applications, funded amount, amount received, average interest rate,  average DTI; Good Loan vs Bad Loan breakdown
+- High-level KPIs with MTD MoM comparisons: total applications, funded amount, amount received, average interest rate,  average DTI; Good Loan vs Bad Loan breakdown
   <img width="764" height="430" alt="summary" src="https://github.com/user-attachments/assets/0256003b-ee39-4128-ac43-a037f3e2c13a" />
 
 2. Overview
-Trend analysis across 6 dimensions: month, U.S. state, loan term, employment length, purpose, and home ownership.
+- Trend analysis across 6 dimensions: month, U.S. state, loan term, employment length, purpose, and home ownership.
   <img width="765" height="429" alt="overview" src="https://github.com/user-attachments/assets/f5aa167d-e165-4627-b344-569330cd6c26" />
  
 3. Details
-Granular borrower-level table for drill-down analysis
+- Granular borrower-level table for drill-down analysis
 <img width="765" height="430" alt="details" src="https://github.com/user-attachments/assets/800a8ccc-4083-41b0-915a-5ab511760933" />
 
 ## Key Metrics (DEC 2021)
@@ -44,13 +44,13 @@ Granular borrower-level table for drill-down analysis
 All KPIs were first validated in SQL Server before being built in Power BI to ensure dashboard numbers are accurate.
 
 Queries cover:
-Total Loan Applications (Total, MTD, PMTD)
-Total Funded Amount (Total, MTD, PMTD)
-Total Amount Received (Total, MTD, PMTD)
-Average Interest Rate (Total, MTD, PMTD)
-Average DTI (Total, MTD, PMTD)
-Good Loan % and Bad Loan % calculations
-Loan Status Grid View
-Monthly trends, state breakdown, term analysis, employment length, loan purpose, and home ownership
+- Total Loan Applications (Total, MTD, PMTD)
+- Total Funded Amount (Total, MTD, PMTD)
+- Total Amount Received (Total, MTD, PMTD)
+- Average Interest Rate (Total, MTD, PMTD)
+- Average DTI (Total, MTD, PMTD)
+- Good Loan % and Bad Loan % calculations
+- Loan Status Grid View
+- Monthly trends, state breakdown, term analysis, employment length, loan purpose, and home ownership
 
 
